@@ -1,4 +1,4 @@
-# template-pug-typescript
+# front-template-pug-typescript
 
 ## Project setup
 ```
